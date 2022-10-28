@@ -15,7 +15,7 @@ class Hud {
   timeBonusRotator = 0;
 
   reset() {
-    this.timeRemaining = 100;
+    this.timeRemaining = 1337;
     this.score = 0;
     this.currentScoreBonus = 0;
     this.isScoreBonusActive = false;
